@@ -18,4 +18,6 @@ também me ajudou a descobrir as configurações para construir meu styli.css.
 
 Parabéns à professora Michele Ambrósio pelo excelente curso! Muito grato!
 
+[Clique aqui](https://SergioSantaCatarina.github.io/dio-trilha-css-desafio-01/) Página com o resultado final esperado, disponibilizada pela professora.
+
 Sérgio Santa Catarina.
